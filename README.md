@@ -3,7 +3,7 @@ This project is used for the applicaitons of humanoid gym without conda envs, bu
 # 1.2 corresbonding downloading
 Issac gym官网：
 https://developer.nvidia.com/isaac-gym/download
-
+安装下载IssacGym_Preview_4_Package.
 # 1.3 Python3.8 installations
 ## 1.3.1 安装python依赖
 ```
